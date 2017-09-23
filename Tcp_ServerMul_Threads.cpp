@@ -20,7 +20,7 @@
 #include <sys/ioctl.h>
 
 #define MAXCLIENTS 3
-#define PORT 8080
+#define PORT 4203
 
 using namespace std;
 std::mutex mu;
